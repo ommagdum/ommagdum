@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>ml based projects including robust backend using spring boot.<br><br>👯 I’m looking to collaborate on  <br>Machine Learning Operations (MLOps), cloud-based ML deployments, and backend development with Python and Spring Boot.  <br><br>🌱 I’m currently learning  <br>MLOps, cloud platforms (AWS, Azure), Java programming, and advanced Python.  <br><br>💬 Ask me about  <br>Machine learning, backend development (Spring Boot, Python). <br><br>⚡ Fun fact  <br>I love F1 racing, house music.
+🔭 I’m currently working on  <br>ml based projects including robust backend using spring boot.<br><br>👯 I’m looking to collaborate on  <br>Machine Learning Operations (MLOps), cloud-based ML deployments, and backend development with Python and Spring Boot.  <br><br>🌱 I’m currently learning  <br>MLOps, cloud platforms (AWS, Azure), Java programming, and advanced Python.  <br><br>💬 Ask me about  <br>Machine learning, backend development (Spring Boot, Python). <br><br>⚡ Fun fact  <br>I love F1 racing and house music.
 
 
 ## 🌐 Socials:
